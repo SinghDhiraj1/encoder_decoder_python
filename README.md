@@ -15,6 +15,13 @@ This objective of this project is to encode and decode messages using a common k
 
 In this project, users have to enter the message to encode or decode. Users have to select the mode to choose the encoding and decoding process. The same key must be used to process the encoding and decoding for the same message.
 
+### Output
+- Encoding 
+![Screenshot 2023-10-28 152711](https://github.com/SinghDhiraj1/encoder_decoder_python/assets/133857148/a4519e57-a346-48b6-81c6-7b02fbd5e3e6)
+- Decoding
+![Screenshot 2023-10-28 152756](https://github.com/SinghDhiraj1/encoder_decoder_python/assets/133857148/27610908-f40b-4130-a03f-4ae857e7cc07)
+
+  
 ### Project Prerequisites
 
 To build this project we will use basic concept of python, Tkinter, and base64 library.
